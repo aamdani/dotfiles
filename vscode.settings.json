@@ -1,0 +1,15 @@
+{
+  "vsicons.dontShowNewVersionMessage": true,
+  "workbench.colorTheme": "Twilight",
+  "editor.fontFamily": "Operator Mono Black, Consolas, 'Courier New', monospace",
+  "editor.fontSize": 20,
+  "editor.tabSize": 2,
+  "editor.renderWhitespace": "all",
+  "editor.cursorStyle": "line",
+  "zenMode.hideStatusBar": false,
+  "zenMode.hideActivityBar": false,
+  "zenMode.hideTabs": true,
+  "json.experimental.syntaxFolding": true,
+  "telemetry.enableTelemetry": false,
+  "telemetry.enableCrashReporter": false
+}
